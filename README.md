@@ -1,5 +1,5 @@
 # Calculadora
 
-Projetinho destinado ao portfólio.
+Estudando HTML CSS & JS
 
 Veja agora -> https://vitin286.github.io/calculadora/
